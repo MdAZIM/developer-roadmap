@@ -15,3 +15,5 @@ Below are some key points about Bluetooth:
 - **Potential vulnerabilities**: Despite its built-in security measures, Bluetooth is not immune to cyber attacks. Some common risks include "bluejacking" (unauthorized sending of messages or files), "bluesnarfing" (unauthorized access to device data), and "BlueBorne" (an attack vector that exploits Bluetooth connections to infiltrate devices and spread malware). Users should be cautious in their usage of Bluetooth and follow best practices like not accepting unknown connection requests and turning off Bluetooth when not in use.
 
 In conclusion, Bluetooth offers a convenient means of connecting devices wirelessly. While it provides reasonably secure communication, users must stay informed about potential vulnerabilities and follow good security practices to safeguard their devices.
+
+https://www.youtube.com/watch?v=mPMGRILsOVk
